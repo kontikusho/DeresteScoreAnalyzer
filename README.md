@@ -1,0 +1,2 @@
+# DeresteScoreAnalyzer
+デレステのスコア画面から各種情報を読み取ります
